@@ -263,7 +263,7 @@ while True:
     elif not path.endswith('990AllXML.zip'):
         print(Fore.RED + "\nYou entered wrong file path:", path, '\n')
         print(Fore.YELLOW + "An example of 990AllXML.zip file path is:")
-        print(Fore.YELLOW + "C:\Temp\Dataminds\990AllXML.zip")
+        print(Fore.YELLOW + "C:\Temp\990AllXML.zip")
         print(Fore.YELLOW + "Let's try again...\n")
         print(Fore.RESET)
         continue
